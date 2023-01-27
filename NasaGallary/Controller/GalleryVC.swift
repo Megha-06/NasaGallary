@@ -21,7 +21,6 @@ class GalleryVC: UIViewController , UIViewControllerTransitioningDelegate, UINav
     override func viewDidLoad() {
         super.viewDidLoad()
        setupUI()
-        //MARK:- First commit testing
     }
     
     func setupUI(){
